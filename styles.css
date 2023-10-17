@@ -87,11 +87,10 @@ footer {
 .text-content {
     flex: 1;
     padding: 20px;
-    font-size: 2em;
 }
 
 .image-content img {
-    border-radius: 50%;
+    border-radius: 15%;
     padding:20px;
 
 }
@@ -120,12 +119,12 @@ footer {
 }
 
 #intro-header {
-    font-size: 2.1em;
+    font-size: 2.6em;
     font-weight: bold;
 }
 
 #intro-text {
-    font-size: 1.8em;
+    font-size: 2.2em;
     text-wrap: normal;
 }
 
