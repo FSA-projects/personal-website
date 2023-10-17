@@ -15,6 +15,8 @@ nav {
 
 h2 {
     font-size: 3em;
+    text-align: center;
+
 }
 
 nav a {
@@ -109,10 +111,22 @@ footer {
     text-align: center;
 }
 
-.about-content {
+.content {
     margin-left: 15%;
     margin-right: 15%;
     text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#intro-header {
+    font-size: 2.1em;
+    font-weight: bold;
+}
+
+#intro-text {
+    font-size: 1.8em;
+    text-wrap: normal;
 }
 
 #github {
@@ -156,8 +170,26 @@ footer {
 #poker {
     margin-top: 3%;
     display: block;
-    height: 15%;
-    width: 20%;
+    height: 25%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#project1 {
+    margin-top: 3%;
+    display: block;
+    height: 25%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+#project2 {
+    margin-top: 3%;
+    display: block;
+    height: 25%;
+    width: 30%;
     margin-left: auto;
     margin-right: auto;
 }
