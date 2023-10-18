@@ -23,7 +23,7 @@ nav a {
     text-decoration: none;
     padding: 7px 10px;
     display: inline-block;
-    transition: background-color 1s;
+    transition: background-color 1.5s;
     color: #BFD7B5;
     background-color: #413C58;
 }
